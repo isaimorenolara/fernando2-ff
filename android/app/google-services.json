@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "171683052093",
+    "project_id": "salsapp-64d04",
+    "storage_bucket": "salsapp-64d04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171683052093:android:587eb90dcf3b3faf330854",
+        "android_client_info": {
+          "package_name": "com.mycompany.flutterflowproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171683052093-8djg26hvf0tlrq2sh96mjam1nldiqh8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkItOjW7ywOy3ykrWHlLLE7LpEgxt3OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171683052093-8djg26hvf0tlrq2sh96mjam1nldiqh8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171683052093-020mjl3isrl1m0h85eohhi5plndg244f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salsapp.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171683052093:android:35b4a680940fe72a330854",
+        "android_client_info": {
+          "package_name": "com.mycompany.salsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171683052093-ajus6cesvkb9anl9o5odfptgac6mj4fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.salsapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "171683052093-8djg26hvf0tlrq2sh96mjam1nldiqh8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkItOjW7ywOy3ykrWHlLLE7LpEgxt3OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171683052093-8djg26hvf0tlrq2sh96mjam1nldiqh8f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171683052093-020mjl3isrl1m0h85eohhi5plndg244f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salsapp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
